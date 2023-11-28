@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/994184707795732132/0386aa61bc9d4e4582fed8d168262191/artifacts
+deleted_time: 1694425837336
+end_time: 1694349326033
+entry_point_name: ''
+experiment_id: '994184707795732132'
+lifecycle_stage: deleted
+run_id: 0386aa61bc9d4e4582fed8d168262191
+run_name: method-batch-lr-0.1-reg-Lasso
+run_uuid: 0386aa61bc9d4e4582fed8d168262191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694349178382
+status: 3
+tags: []
+user_id: thamakorn

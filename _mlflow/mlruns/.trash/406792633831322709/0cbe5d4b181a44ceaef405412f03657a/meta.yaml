@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/406792633831322709/0cbe5d4b181a44ceaef405412f03657a/artifacts
+deleted_time: 1694425797770
+end_time: 1694252027708
+entry_point_name: ''
+experiment_id: '406792633831322709'
+lifecycle_stage: deleted
+run_id: 0cbe5d4b181a44ceaef405412f03657a
+run_name: method-batch-lr-0.1-reg-ElasticNet
+run_uuid: 0cbe5d4b181a44ceaef405412f03657a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694251978251
+status: 3
+tags: []
+user_id: chaky

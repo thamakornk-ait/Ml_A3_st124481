@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/382045648558679317/f8af7e801f954601b4c8b0be4a36b2ce/artifacts
+end_time: 1694489591594
+entry_point_name: ''
+experiment_id: '382045648558679317'
+lifecycle_stage: active
+run_id: f8af7e801f954601b4c8b0be4a36b2ce
+run_name: method-mini-theta-zero-momentum-0-lr-0.001-reg-Ridge
+run_uuid: f8af7e801f954601b4c8b0be4a36b2ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694489573684
+status: 3
+tags: []
+user_id: thamakorn

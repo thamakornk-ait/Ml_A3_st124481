@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/618279163567556626/c77021c298a84dab8e05df443d7dd1f1/artifacts
+end_time: 1694509600964
+entry_point_name: ''
+experiment_id: '618279163567556626'
+lifecycle_stage: active
+run_id: c77021c298a84dab8e05df443d7dd1f1
+run_name: method-batch-theta-zero-momentum-0-lr-0.0001-reg-Lasso
+run_uuid: c77021c298a84dab8e05df443d7dd1f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694509568782
+status: 3
+tags: []
+user_id: thamakorn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/618279163567556626/d1ba049480bc41a5a9ccb030ca7d8cde/artifacts
+end_time: 1694507689385
+entry_point_name: ''
+experiment_id: '618279163567556626'
+lifecycle_stage: active
+run_id: d1ba049480bc41a5a9ccb030ca7d8cde
+run_name: Fold-0
+run_uuid: d1ba049480bc41a5a9ccb030ca7d8cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694507672848
+status: 3
+tags: []
+user_id: thamakorn

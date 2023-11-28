@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/406792633831322709/61e2414137864c3890998612188add7e/artifacts
+deleted_time: 1694425797770
+end_time: 1694251691899
+entry_point_name: ''
+experiment_id: '406792633831322709'
+lifecycle_stage: deleted
+run_id: 61e2414137864c3890998612188add7e
+run_name: method-batch-lr-0.1-reg-Lasso
+run_uuid: 61e2414137864c3890998612188add7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694251612903
+status: 3
+tags: []
+user_id: chaky

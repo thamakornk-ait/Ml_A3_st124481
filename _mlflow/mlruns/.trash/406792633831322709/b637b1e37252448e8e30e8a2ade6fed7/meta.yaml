@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/406792633831322709/b637b1e37252448e8e30e8a2ade6fed7/artifacts
+deleted_time: 1694425797770
+end_time: 1694251612853
+entry_point_name: ''
+experiment_id: '406792633831322709'
+lifecycle_stage: deleted
+run_id: b637b1e37252448e8e30e8a2ade6fed7
+run_name: method-batch-lr-0.1-reg-Ridge
+run_uuid: b637b1e37252448e8e30e8a2ade6fed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694251563626
+status: 3
+tags: []
+user_id: chaky

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/994184707795732132/8cbeb29d53fa4cf6b5eee51c26894b96/artifacts
+deleted_time: 1694425837336
+end_time: 1694347698522
+entry_point_name: ''
+experiment_id: '994184707795732132'
+lifecycle_stage: deleted
+run_id: 8cbeb29d53fa4cf6b5eee51c26894b96
+run_name: method-batch-lr-0.1-reg-Ridge
+run_uuid: 8cbeb29d53fa4cf6b5eee51c26894b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694347636737
+status: 3
+tags: []
+user_id: thamakorn

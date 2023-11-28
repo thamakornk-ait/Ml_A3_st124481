@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/382045648558679317/97881c0d01dc4870a7f0e3f451c17b8b/artifacts
+end_time: 1694489993573
+entry_point_name: ''
+experiment_id: '382045648558679317'
+lifecycle_stage: active
+run_id: 97881c0d01dc4870a7f0e3f451c17b8b
+run_name: method-batch-theta-xavier-momentum-1e-05-lr-0.01-reg-Ridge
+run_uuid: 97881c0d01dc4870a7f0e3f451c17b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694489970942
+status: 3
+tags: []
+user_id: thamakorn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/406792633831322709/e414558a2c88438aa6ce579037151d0d/artifacts
+deleted_time: 1694425797770
+end_time: 1694251975456
+entry_point_name: ''
+experiment_id: '406792633831322709'
+lifecycle_stage: deleted
+run_id: e414558a2c88438aa6ce579037151d0d
+run_name: Fold-2
+run_uuid: e414558a2c88438aa6ce579037151d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694251958410
+status: 3
+tags: []
+user_id: chaky
